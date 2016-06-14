@@ -1,5 +1,5 @@
 
-#define image_link "C://Users//Manash//AndroidStudioProjects//TestApplication//app//src//main//res//drawable//aletta1.jpg"
+#define image_link "C://Users//Manash//AndroidStudioProjects//TestApplication//app//src//main//res//drawable//a.jpg"
 
 
 #include <opencv2/imgproc/imgproc.hpp>
